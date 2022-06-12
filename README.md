@@ -9,4 +9,5 @@ Recording Academic Writing Norms
 ## Wring tricks
 1. Put important sentences to the beginning as some researchers only look at the beginning sentence.
 2. Conclude the related work with your improvement compraing to previous methods.
-
+3. Begin with a breif conclustion of your work when introducing your method and conclude againin the in the end of method.
+4. 
